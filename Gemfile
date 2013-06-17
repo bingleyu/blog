@@ -39,5 +39,5 @@ gem 'jquery-rails', '2.0.2'
 gem 'execjs'
 gem 'therubyracer'
 group :prroduction do
-  gem 'pq', '0.15.1'
+  gem 'pg', '0.15.1'
 end
